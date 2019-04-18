@@ -14,5 +14,3 @@ Have a good day!
 Kate Tuzina
 address
 phone number
-
-commit from master
