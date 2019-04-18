@@ -2,7 +2,7 @@ Hello!
 
 Lorem description is changed
 2nd line of description is added
-3nd line of descr from develop branch
+master commit
 
 Lorem ipsum dolor sit amet, nulla sit, ac nonummy. Sollicitudin lorem tincidunt, justo odio. Dolor aliquam mauris, ultricies eu, luctus duis. Aliquam odio et, est labore, amet sed aenean. Sodales elementum pharetra, viverra tortor, gravida lacinia. Mollis occaecat suscipit.
 
